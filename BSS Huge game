@@ -1,0 +1,5 @@
+getgenv().AuthKey="HUGE_2Wj3FUzQv4gzY843"
+getgenv().LoadSettings={
+  DisableStartupPrompt=false
+}
+loadstring(game:HttpGet("https://HugeGames.io/bss"))()	
