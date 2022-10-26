@@ -1,0 +1,24 @@
+_G.WebhookLucky = ""   --webhook for lucky notifier
+ 
+--script was recently updated
+
+getgenv().WhatToFarm = {
+    ["Yellow Candy"] = false,
+    ["Red Candy"] = false,
+    ["Blue Candy"] = false,
+    ["Green Candy"] = false,
+    ["Rokakaka"] = true,
+    ["Pure Rokakaka"] = false,
+    ["Diamond"] = false,
+    ["DEO's Diary"] = false,
+    ["Steel Ball"] = false,
+    ["Rib Cage of The Saint's Corpse"] = false,
+    ["Stone Mask"] = false,
+    ["Gold Coin"] = false,
+    ["Quinton's Glove"] = false,
+    ["Ancient Scroll"] = false,
+    ["Zepellin's Headband"] = false,
+    ["Mysterious Arrow"] = true
+}
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeVsCity/hackbloxfruits/main/hop"))()
