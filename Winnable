@@ -1,1 +1,3 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/vxny/BF/main/Loading.lua")()
+writefile("Winnable.json", "DYEHSHUXHEJENSB")
+_G.Mode = "Normal" -- Aimbot / Normal
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlostpexz/tyuiop/Fps/Loading.lua"))()
